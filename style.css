@@ -9,6 +9,6 @@ p {
 .box {
     height: 40px;
     width: 60px;
-    background-color: red;
+    background-color: purple;
     display: inline-block;
 }
