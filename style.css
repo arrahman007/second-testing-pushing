@@ -1,7 +1,14 @@
-h1 {
-    color: blue;
+p {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+
+
 }
 
 .box {
-    height: 0;
+    height: 40px;
+    width: 60px;
+    background-color: red;
+    display: inline-block;
 }
